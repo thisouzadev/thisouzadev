@@ -5,8 +5,7 @@
   <div align="left" style="display: inline_block">
     <li>- 🔭 Atualmente estudo Desenvolvimento de Software na <a href="https://betrybe.com">Trybe</a></li>
     <li>- 🌱 Aprendendo SGBD-MySQL</li>
-    <li>- 💬 Me pergunte sobre [Coloque aqui o que você gostaria de conversar]</li>
-    <li>- 😄 Pronomes: [seus pronomes aqui]</li>
+    <li>- 😄 Pronomes: estudar</li>
     <li>- ⚡ Fun fact: gosto de games e ficar horas no pc</li>
   </div>
 </div>
@@ -41,7 +40,6 @@
   <a href="https://www.linkedin.com/in/thisouzadev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:thiagodesouza.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com//thisouza91/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="thisouzadev#6202" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   
 </div>
 
