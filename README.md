@@ -13,8 +13,7 @@
 ---
 
 <div align="center">
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?thisouzadev=anuraghazra&show_icons=true&theme=radical)
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thisouzadev-ol&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&icon_color=2FC18C&title_color=2FC18C&bg_color=1A1D21"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erick-ol&layout=compact&langs_count=7&theme=dracula&title_color=2FC18C&bg_color=1A1D21"/>
 </div>
 
