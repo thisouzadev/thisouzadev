@@ -4,7 +4,7 @@
   <img height="150px" align="right" src="https://theme.zdassets.com/theme_assets/9633455/9814df697eaf49815d7df109110815ff887b3457.png" />
   <div align="left" style="display: inline_block">
     <li>- 🔭 Atualmente estudo Desenvolvimento de Software na <a href="https://betrybe.com">Trybe</a></li>
-    <li>- 🌱 Aprendendo SGBD-MySQL</li>
+    <li>- 🌱 Aprendendo DOCKER</li>
     <li>- 😄 Pronomes: Ele/Dele</li>
     <li>- ⚡ Fun fact: gosto de games e ficar horas no pc</li>
   </div>
