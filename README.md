@@ -6,7 +6,7 @@
     <li>- 🔭 Atualmente estudo Desenvolvimento de Software na <a href="https://betrybe.com">Trybe</a></li>
     <li>- 🌱 Aprendendo node</li>
     <li>- 😄 Pronomes: Ele/Dele</li>
-    <li>- ⚡ Fun fact: gosto de games e ficar horas no pc</li>
+    <li>- ⚡ Fun fact: animes/filmes/series/games/academia/estudar</li>
   </div>
 </div>
 
