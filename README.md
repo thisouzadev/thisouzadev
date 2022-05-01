@@ -1,7 +1,7 @@
 ## Olá meu nome é ***THIAGO***!
 
 <div align="center">
-  <img height="150px" align="right" src="https://theme.zdassets.com/theme_assets/9633455/9814df697eaf49815d7df109110815ff887b3457.png" />
+  <img height="150px" align="right" src="https://programathor.com.br/blog/wp-content/uploads/2018/05/fast-typing.gif" />
   <div align="left" style="display: inline_block">
     <li>- 🔭 Desenvolvedor de Software</a></li>
     <li>- 🌱 Aprendendo java e python</li>
@@ -13,7 +13,7 @@
 ---
 
 <div align="center">
-  <img height="180em" src="https://programathor.com.br/blog/wp-content/uploads/2018/05/fast-typing.gif"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats"/>
 </div>
 
 ---
