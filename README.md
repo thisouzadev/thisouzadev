@@ -35,8 +35,9 @@
   <img align="center" alt="docker" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
   <img align="center" alt="nodejs" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="heroku" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg">
-  <img align="center" alt="heroku" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg">
-  
+  <img align="center" alt="socket.io" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg">
+  <img align="center" alt="python" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="java" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
 
 ---
