@@ -6,7 +6,7 @@
     <li>- 🔭 Desenvolvedor de Software</a></li>
     <li>- 🌱 Aprendendo java e python</li>
     <li>- 😄 Pronomes: Ele/Dele</li>
-    <li>- ⚡ Fun fact: animes, filmes, series, games, academia e estudar</li>
+    <li>- ⚡ Fun fact: animes, filmes, series, games, academia, estudar e café</li>
   </div>
 </div>
 
