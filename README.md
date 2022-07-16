@@ -47,7 +47,7 @@
   <a href="https://www.linkedin.com/in/thisouzadev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href = "mailto:thiagodesouza.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href = "https://web.whatsapp.com/send?phone=979447656"><img src="https://img.shields.io/badge/-whatsapp-V8789?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-  <a href = "https://portfolio-ten-sable-66.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-V8789?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+  <a href = "https://portfolio-ten-sable-66.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-V8789?style=for-the-badge" target="_blank"></a>
 </div>
 
 
