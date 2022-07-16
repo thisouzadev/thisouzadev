@@ -4,7 +4,7 @@
   <img height="150px" align="right" src="https://programathor.com.br/blog/wp-content/uploads/2018/05/fast-typing.gif" />
   <div align="left" style="display: inline_block">
     <li>- 🔭 Desenvolvedor de Software</a></li>
-    <li>- 🌱 Aprendendo java e python</li>
+    <li>- 🌱 Aprendendo Nestjs e typescritp</li>
     <li>- 😄 Pronomes: Ele/Dele</li>
     <li>- ⚡ Fun fact: animes, filmes, series, games, academia, estudar e café</li>
   </div>
@@ -47,6 +47,7 @@
   <a href="https://www.linkedin.com/in/thisouzadev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href = "mailto:thiagodesouza.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href = "https://web.whatsapp.com/send?phone=979447656"><img src="https://img.shields.io/badge/-whatsapp-V8789?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+  <a href = "https://portfolio-ten-sable-66.vercel.app/"><img src="https://img.shields.io/badge/-whatsapp-V8789?style=for-the-badge&logo=whatsapp&logoColor=crinsom" target="_blank"></a>
 </div>
 
 
