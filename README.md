@@ -7,7 +7,7 @@
     <li>- 🌱 Aprendendo Nestjs e typescritp</li>
     <li>- 😄 Pronomes: Ele/Dele</li>
     <li>- ⚡ Fun fact: animes, filmes, series, games, academia, estudar e café</li>
-    <li>-  <a target="_blank" href="https://portfolio-ten-sable-66.vercel.app/" >portfolio</a></li>
+    <li>-  <a href="https://portfolio-ten-sable-66.vercel.app/" target="_blank"  >portfolio</a></li>
   </div>
 </div>
 
