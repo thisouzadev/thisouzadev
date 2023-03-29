@@ -4,7 +4,7 @@
   <img height="150px" align="right" src="https://programathor.com.br/blog/wp-content/uploads/2018/05/fast-typing.gif" />
   <div align="left" style="display: inline_block">
     <li>- 🔭 Desenvolvedor de Software</a></li>
-    <li>- 🌱 Aprendendo ...</li>
+    <li>- 🌱 Estudando para o Meli e BDB</li>
     <li>- 😄 Pronomes: Ele/Dele</li>
     <li>- ⚡ Fun fact: animes, filmes, series, games, academia, estudar e café</li>
     <li>-  <a href="https://portfolio-ten-sable-66.vercel.app/" target="_blank"  >portfolio</a></li>
